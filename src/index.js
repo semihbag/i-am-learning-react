@@ -1,1 +1,8 @@
 
+function sayHello() {
+    for(var i = 0; i < 10; i++){
+        console.log('hello world ' + i);
+    }
+}
+
+sayHello();
