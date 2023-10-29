@@ -1,1 +1,1 @@
-I'm learning react coding on this repository. At the same time, I want to improve myself in terms of gir use in this process. So I'll do both at the same time. I will make the things I have learned even more efficient by using git and github
+I'm learning react coding on this repository. At the same time, I want to improve myself in terms of gir use in this process. So I'll do both at the same time. I will make the things I have learned even more efficient by using git and github.
